@@ -1,0 +1,43 @@
+_repo: The-Boats-of-the--Glen-Carrig---13-Being-an-account-of-their-Adventures-in-the-Strange-places__10542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hodgson, William Hope
+    birthdate: 1877
+    deathdate: 1918
+    gutenberg_agent_id: '3260'
+    url: http://www.gutenberg.org/2009/agents/3260
+    wikipedia: http://en.wikipedia.org/wiki/William_Hope_Hodgson
+description: "The Boats of the \"Glen Carrig\" is the fourth studio album by the German\
+  \ funeral doom metal band Ahab. It was released on 28 August 2015 through Napalm\
+  \ Records. It is a concept album based on William Hope Hodgson's eponymous novel.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10542'
+  wikidata: Q1211686
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+- !lcsh 'Sea stories'
+- GITenberg
+title: "The Boats of the \"Glen Carrig\"\r\nBeing an account of their Adventures in\
+  \ the Strange places of the Earth, after the foundering of the good ship Glen Carrig\
+  \ through striking upon a hidden rock in the unknown seas to the Southward; as told\
+  \ by John Winterstraw, Gent., to his son James Winterstraw, in the year 1757, and\
+  \ by him committed very properly and legibly to manuscript"
+url: http://www.gutenberg.org/ebooks/10542
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%82%D9%88%D8%A7%D8%B1%D8%A8_%D8%BA%D9%84%D9%8A%D9%86_%D9%83%D8%A7%D8%B1%D9%8A%D8%BA
+- https://de.wikipedia.org/wiki/Die_Boote_der_%E2%80%9EGlen_Carrig%E2%80%9C
+- https://en.wikipedia.org/wiki/The_Boats_of_the_%22Glen_Carrig%22
