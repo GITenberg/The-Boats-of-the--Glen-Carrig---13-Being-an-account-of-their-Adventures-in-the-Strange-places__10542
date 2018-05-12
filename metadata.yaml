@@ -1,5 +1,8 @@
 _repo: The-Boats-of-the--Glen-Carrig---13-Being-an-account-of-their-Adventures-in-the-Strange-places__10542
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hodgson, William Hope
@@ -12,6 +15,8 @@ description: "The Boats of the \"Glen Carrig\" is the fourth studio album by the
   \ funeral doom metal band Ahab. It was released on 28 August 2015 through Napalm\
   \ Records. It is a concept album based on William Hope Hodgson's eponymous novel.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10542#The-Boats-of-the--Glen-Carrig---13-Being-an-account-of-their-Adventures-in-the-Strange-places_
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
